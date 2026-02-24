@@ -2,9 +2,9 @@
 Java Program Practicals
 
 Name : Aayuti Humane  
-Cass : SYIT
+Class : SYIT
 Roll No : 24302D0063
-Subject : Coe Java
+Subject : Core Java
 ---
 
 ## 📂 Practical 01
